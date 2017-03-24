@@ -1,0 +1,1 @@
+# ATCDPLecture8Patterns
